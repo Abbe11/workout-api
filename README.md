@@ -1,3 +1,5 @@
+> **Archived.** This was an earlier course lab. The more complete version, with authentication, password hashing and per-user data, is [workout-tracker-api](https://github.com/Abbe11/workout-tracker-api).
+
 # Workout Tracker API
 
 A Flask + SQLAlchemy + Marshmallow backend for a workout tracking
